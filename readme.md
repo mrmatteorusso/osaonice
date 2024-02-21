@@ -1,6 +1,4 @@
-# Portfolio Website
-
-![portfolio-website2](https://user-images.githubusercontent.com/80893528/160882593-09424962-0e6a-4ce4-b6f8-b739c02290a6.png)
+# Osa on Ice Website
 
 ### Table of Contents:
 
